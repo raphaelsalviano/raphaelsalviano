@@ -1,8 +1,9 @@
 <h1 align="center">Olá 👋, sou Raphael Salviano</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Mobile+Especialista;React+Native+%7C+Android+%7C+iOS;Módulos+Nativos+e+Integração+de+SDKs;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Mobile+Especialista;React+Native%20|%20Android%20|%20iOS;Módulos%20Nativos%20e%20SDKs;Bem-vindo%20ao%20meu%20GitHub!" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raphaelsalviano/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
